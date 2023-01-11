@@ -1,7 +1,7 @@
 # HTML
 Repositório para aprendizado de HTML. Curso Alura HTML
 
-0 - principals.html > códigos html para uso no dia a dia;
+principals.html > códigos html para uso no dia a dia;
 
 -------------------------------------
 
