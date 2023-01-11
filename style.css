@@ -1,0 +1,56 @@
+
+ body{
+    background:#CCCCCC;
+}
+
+.titulo-principal{
+    margin-left: 20px; 
+}
+
+#banner{
+    width: 100%;
+}
+
+.conteudo1{
+    background: #FFFFFF;
+    padding: 20px; 
+}
+
+.titulo-centro{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#p3{
+    font-size: 24px;
+}
+
+p strong{
+    color: green;
+}
+
+.conteudo2{
+    padding: 20px;
+}
+
+h2{
+    
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15%;
+
+}
+
+.itens{
+    font-style: italic;
+}
+
+.img_itens{
+    width: 50%;
+}
