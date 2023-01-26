@@ -15,6 +15,21 @@ nav {
     right:25%;  
 }
 
+#hard{
+    height: 250px;
+    width: 250px;
+}
+
+#soft{
+    height: 250px;
+    width: 250px;
+}
+
+#code{
+    height: 250px;
+    width: 250px;
+}
+
 nav li {
     display: inline;
     margin: 0 0 0 80px; 
@@ -28,6 +43,78 @@ nav a{
     text-decoration: none;
 }
 
+nav a:hover{
+    color: #C78c19;
+    text-decoration: underline;
+}
+
 .img_logo{
     width: 15%;
+}
+
+.produtos{
+    width: 80%;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5% ;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 2px ;
+    border-style: solid;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.produtos h2{
+    margin-bottom: 40px;
+}
+
+.produtos li:hover{
+    border-color: #c78c19;
+}
+
+.produtos li:active{
+    border-color: #088c19;
+}
+
+.produtos li:hover h2{
+    font-size: 70px;
+}
+
+.produtos h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.produto{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px 0 0;
+}
+
+.produto-descr{
+ font-size: 40px;
+ color: darkgray;
+ margin: 40px 0 0;
+ text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: lightgray;
+    padding: 40px 40px;
+}
+
+.copyright{
+    color: #ffffff;
+    font-size: 30px;
+    margin: 20px 0 0; 
 }
