@@ -5,12 +5,18 @@ principals.html > códigos html para uso no dia a dia;
 
 -------------------------------------
 
-Arquivos ALURA Curso HTML - Parte 1: 
+Arquivos ALURA Curso 01 HTML: 
 
-index.html 
+01_index.html 
 
-style.css
+01_style.css
 
-Pasta IMG
+------------------------------------
+
+Arquivos ALURA Curso 02 HTML: 
+
+02_produtos.html 
+
+02_style.css
 
 ------------------------------------
