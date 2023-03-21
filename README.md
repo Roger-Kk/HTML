@@ -21,8 +21,8 @@ Arquivos ALURA Curso 02 HTML:
 
 ------------------------------------
 
-Arquivos ALURA Curso 03 e 04 HTML: 
+Arquivos ALURA Curso 03 a 05 HTML: 
 
-03_index.html
+03-05_index.html
 
-03_style.css
+03-05_style.css
