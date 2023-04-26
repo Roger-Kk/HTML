@@ -26,3 +26,8 @@ Arquivos ALURA Curso 03 a 05 HTML:
 03-05_index.html
 
 03-05_style.css
+
+Finalização do Projeto: Exemplo. 
+![image](https://user-images.githubusercontent.com/30131172/234705774-3b270896-1485-4cb4-bb5a-028b0839e852.png)
+
+
